@@ -1,0 +1,20 @@
+---
+title: "ETN_Gitte_Decat"
+output: html_document
+date: "2024-04-23"
+---
+
+## introduction 
+
+The content of the ETN follows the FAIR principle and includes:
+•	A description/elaboration on the tasks performed
+•	Research, comparisons and background information
+•	Problems and solutions
+•	Location of scripts and datasets
+•	(Daily) feedback on the tasks provided by the traineeship supervisor(s)
+
+
+## ETN
+
+# 22/04/2024
+
